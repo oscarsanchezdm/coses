@@ -2,7 +2,6 @@
 
 library(jsonlite)
 library(ggplot2)
-library(jsonlite)
 
 #preguntar a l'usuari la línia a obtenir dades i el tipus de dia
 line <- readline(prompt="Escollir línia (1, 2, 3, 4, 5, 91(L9S), 101(L10S), 94(L9N), 104(L10N)):")
